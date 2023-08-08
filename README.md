@@ -1,7 +1,7 @@
 ![Dashboards](Brazil Analysis.JPG)
 
 
-![Dashboard](Dashboards SuperStore Sales.JPG)
+![Dashboard](Dashboards SuperStore Sales.jpg)
 # Data_analytics
 This repository was created to publish different types of analysis
 If you want to see more about data processing and data cleaning I invite you to see the notebooks
